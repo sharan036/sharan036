@@ -51,4 +51,4 @@ Full Stack Software Developer!
 ![ReactJS](https://img.shields.io/badge/ReactJS-Expert-lightgrey)
 ![NodeJS](https://img.shields.io/badge/NodeJS-Intermediate-lightblue)
 
-![](https://github-readme-stats.vercel.app/api?username=sharan036&show_icons=true&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=sharan036&show_icons=true&hide_border=false&count_private=true)
