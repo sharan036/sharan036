@@ -3,7 +3,7 @@
 Full Stack Software Developer!
 
 -   🔥 Extremely addicted to JavaScript.
--   🌱 Currently, I’m learning about Docker.
+-   🌱 Currently, I’m learning about ThreeJS.
 -   🎨 Passionate about designing & developing new UIs.
 -   ⚡ Fun Fact: I enjoy playing cricket and listening songs.
 
