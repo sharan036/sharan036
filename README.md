@@ -7,11 +7,7 @@ Full Stack Software Developer!
 -   🎨 Passionate about designing & developing new UIs.
 -   ⚡ Fun Fact: I enjoy playing cricket and listening songs.
 
-<!-- ### Connect:
-
-[<img align="left" alt="sharan036.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://harshal-singh.me/)
-[<img align="left" alt="sharan | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />](https://www.linkedin.com/in/harshal-singh-56a55a236/)
-[<img align="left" alt="_harshal_singh_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://harshal-singh.me/) -->
+<!-- ### Connect: -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharan036" alt="sharan036" /></a> </p>
 <br />
 
