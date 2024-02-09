@@ -50,13 +50,5 @@ Full Stack Software Developer!
 ![](https://github-readme-stats.vercel.app/api?username=sharan036&show_icons=true&hide_border=false&count_private=true)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharan036&show_icons=true&locale=en&layout=compact" alt="sharan036" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharan036" alt="sharan036" /></p>
-
-## Wakatime
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sharan036&theme=react&langs_count=5&layout=compact" />
-
-  ## Contributions
-  <img src="https://github-contributor-stats.vercel.app/api?username=sharan036&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharan036&label=Profile%20views&color=0e75b6&style=flat" alt="sharan036" /> </p>
 
