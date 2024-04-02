@@ -1,6 +1,6 @@
 ### Hello bro 👋
 # I'm Sharan036
-Full Stack Software Developer!
+Blockchain Developer || Full Stack Software Developer!
 
 -   🔥 Extremely addicted to JavaScript.
 -   🌱 Currently, I’m learning about ICP BlockChain.
